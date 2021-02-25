@@ -5,6 +5,7 @@ public class Test
         System.out.println("Hi my name is Kamohelo");
         //comment
         //comment 2
+        //comment 3
     }
     
 }
